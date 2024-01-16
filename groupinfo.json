@@ -1,22 +1,22 @@
 [
   {
-    "name" : "Core (needed)",
+    "name" : "Core",
     "rank" : 0
   },
   {
-    "name" : "Cosmetic related mods",
+    "name" : "Cosmetic",
     "rank" : 1
   },
   {
-    "name" : "Mod Menus",
+    "name" : "Mod",
     "rank" : 2
   },
   {
-    "name" : "Tweaks / Tools",
+    "name" : "Tweak",
     "rank" : 3
   },
   {
-    "name" : "Libraries/Dependencies",
+    "name" : "Libraries",
     "rank" : 4
   }
 ]
