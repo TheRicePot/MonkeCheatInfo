@@ -1,14 +1,14 @@
 [
   {
-    "name" : "Core",
+    "name" : "Core (needed)",
     "rank" : 0
   },
   {
-    "name" : "Cosmetic",
+    "name" : "Cosmetic related mods",
     "rank" : 1
   },
   {
-    "name" : "Gameplay",
+    "name" : "Mod Menus",
     "rank" : 2
   },
   {
@@ -16,7 +16,7 @@
     "rank" : 3
   },
   {
-    "name" : "Libraries",
+    "name" : "Libraries/Dependencies",
     "rank" : 4
   }
 ]
