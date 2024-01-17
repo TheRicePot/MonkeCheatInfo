@@ -8,7 +8,7 @@
       "Computer++"
     ],
     "git_path": "fchb1239/AirJump",
-    "group": "Gameplay",
+    "group": "ModMenu",
     "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.4/AirJump.zip"
   },
   {
@@ -19,7 +19,7 @@
       "Utilla"
     ],
     "git_path": "KyleTheScientist/Bark",
-    "group": "Gameplay",
+    "group": "ModMenu",
     "download_url": "https://github.com/KyleTheScientist/Bark/releases/download/v1.5.1/Bark-1.5.1.dll"
   },
   {
@@ -60,8 +60,8 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
   },
   {
-    "name": "GOOMPS",
-    "author": "buzzbb",
+    "name": "Cosmetix",
+    "author": "forgor",
     "version": "1.0.1",
     "dependencies": [
       "Utilla"
@@ -78,7 +78,7 @@
       "HoneyLib"
     ],
     "git_path": "BrokenSt0ne/GorillaRoulette",
-    "group": "Gameplay",
+    "group": "ModMenu",
     "download_url": "https://github.com/BrokenSt0ne/GorillaRoulette/releases/download/1.0.3/GorillaRoulette-v1.0.3.zip"
   },
   {
@@ -91,7 +91,7 @@
       "ComputerInterface"
     ],
     "git_path": "BzzzThe18th/GorillaShotgun",
-    "group": "Gameplay",
+    "group": "ModMenu",
     "download_url": "https://github.com/BzzzThe18th/GorillaShotgun/releases/download/1.0.1/GorillaShotgun-v1.0.1.zip"
   },
   {
@@ -112,7 +112,7 @@
       "Computer Interface"
     ],
     "git_path": "Vadix88/MonkeMapLoader",
-    "group": "Gameplay",
+    "group": "ModMenu",
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.2/MonkeMapLoader.zip"
   },
   {
